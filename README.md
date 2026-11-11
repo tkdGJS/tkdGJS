@@ -1,10 +1,23 @@
-# Hi there, I'm Sangheon Lee (이상헌) 👋
+<!-- Blue research-profile banner: edit assets/header.svg to change its content. -->
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Sangheon Lee (이상헌) — NOSLab, Dongguk University" />
+</p>
 
-**AI Systems Researcher | LLM Serving · GPU Resource Management · Linux Kernel & Storage**
+<p align="center">
+  <strong>LLM Serving</strong> &nbsp;·&nbsp; <strong>Resource Scheduling</strong> &nbsp;·&nbsp; <strong>GPU Memory Management</strong> &nbsp;·&nbsp; <strong>Linux &amp; Storage Systems</strong>
+</p>
 
-I am an M.S. student in Computer Engineering at **Dongguk University**, working with the **Next-generation Operating Systems Laboratory (NOSLab)**. My research focuses on building efficient AI systems, particularly LLM serving runtimes, resource scheduling, GPU memory management, and Linux storage systems.
+<p align="center">
+  <a href="https://github.com/tkdGJS"><img src="./assets/github.svg" alt="GitHub" height="40" /></a>&nbsp;
+  <a href="mailto:tkdgjs0213@gmail.com"><img src="./assets/email.svg" alt="Email" height="40" /></a>&nbsp;
+  <a href="https://noslab.github.io/"><img src="./assets/noslab.svg" alt="NOSLab" height="40" /></a>
+</p>
 
-📫 **Contact:** [Email](mailto:tkdgjs0213@gmail.com) · [GitHub](https://github.com/tkdGJS)
+<br />
+
+I'm an M.S. student in Computer Engineering at **Dongguk University**, working with **[NOSLab (Next-generation Operating Systems Laboratory)](https://noslab.github.io/)**.
+
+My research focuses on **LLM serving and inference systems**, **GPU resource scheduling and memory management**, and **Linux kernel and storage systems**.
 
 ## 🔬 Research Interests
 
