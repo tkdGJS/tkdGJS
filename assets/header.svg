@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="302" viewBox="0 0 1120 302" role="img" aria-labelledby="title desc">
+<title id="title">Sangheon Lee — Research Profile</title>
+<desc id="desc">Sangheon Lee, 이상헌, Next-generation Operating Systems Lab at Dongguk University. Illustration connecting AI, code, and the Linux kernel.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7FAFE"/><stop offset="1" stop-color="#EDF4FC"/></linearGradient>
+  <linearGradient id="halo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DCE9FC" stop-opacity=".92"/><stop offset="1" stop-color="#EAF3FF" stop-opacity=".35"/></linearGradient>
+  <clipPath id="canvas"><rect x="2" y="2" width="1116" height="298" rx="24"/></clipPath>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#DDE9F8" stroke-width=".7" opacity=".48"/></pattern>
+</defs>
+<rect x="1.5" y="1.5" width="1117" height="299" rx="25" fill="url(#bg)" stroke="#D3E2F5" stroke-width="2"/>
+<g clip-path="url(#canvas)">
+  <circle cx="945" cy="112" r="248" fill="url(#halo)"/>
+  <rect x="702" y="0" width="418" height="302" fill="url(#grid)"/>
+  <path d="M659 34V268" stroke="#D5E3F5" stroke-width="1.5"/>
+  <g font-family="Inter, Noto Sans CJK KR, Pretendard, Arial, sans-serif">
+    <rect x="50" y="47" width="29" height="4" rx="2" fill="#2972CE"/>
+    <text x="92" y="55" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.6" fill="#416CA5">RESEARCH PROFILE</text>
+    <text x="50" y="158" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2.8" fill="#152B4D">Sangheon Lee</text>
+    <text x="53" y="197" font-family="Noto Sans CJK KR, NanumSquare, sans-serif" font-size="27" font-weight="450" fill="#4B78B3">이상헌</text>
+    <text x="52" y="252" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.0" fill="#5476A2">NOSLAB · DONGGUK UNIVERSITY</text>
+  </g>
+  <!-- orbital system illustration -->
+  <circle cx="880" cy="151" r="114" fill="none" stroke="#BCD2EC" stroke-width="1.7"/>
+  <circle cx="880" cy="151" r="76" fill="none" stroke="#D0E0F3" stroke-width="1.2" stroke-dasharray="5 8"/>
+  <g stroke="#568BDF" stroke-width="1.8" fill="none" stroke-linecap="round">
+    <path d="M850 111L792 194"/>
+    <path d="M907 115L983 192"/>
+    <path d="M802 204L977 204"/>
+    <path d="M939 91L1035 57" stroke-dasharray="4 7"/>
+    <path d="M789 218L734 263" stroke-dasharray="4 7"/>
+    <path d="M1002 218L1082 263" stroke-dasharray="4 7"/>
+  </g>
+  <g fill="#2874DA"><circle cx="1037" cy="57" r="5"/><circle cx="734" cy="263" r="5"/><circle cx="1083" cy="263" r="5"/></g>
+  <!-- AI: neural accelerator / AI microchip -->
+  <rect x="823" y="58" width="116" height="72" rx="16" fill="#FFFFFF" stroke="#D4E1F4" stroke-width="1.8"/>
+  <g fill="none" stroke="#2A74D4" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="866" y="77" width="30" height="34" rx="7" fill="#F1F7FF"/>
+    <path d="M872 71v6M882 71v6M892 71v6M872 111v7M882 111v7M892 111v7M859 84h7M859 95h7M859 106h7M896 84h7M896 95h7M896 106h7"/>
+  </g>
+  <text x="881" y="100" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="14" fill="#2774D8">AI</text>
+  <!-- neural network satellite nodes -->
+  <g stroke="#7FAEE8" stroke-width="1.5" fill="none"><path d="M841 80l17 6M841 106l17-5M921 80l-17 6M921 106l-17-5"/></g>
+  <g fill="#2874DA"><circle cx="841" cy="80" r="3"/><circle cx="841" cy="106" r="3"/><circle cx="921" cy="80" r="3"/><circle cx="921" cy="106" r="3"/></g>
+  <!-- code / runtime -->
+  <rect x="729" y="167" width="123" height="77" rx="17" fill="#FFFFFF" stroke="#D4E1F4" stroke-width="1.8"/>
+  <path d="M779 190l-12 14 12 13M803 190l12 14-12 13M795 185l-9 37" fill="none" stroke="#2776DF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Linux kernel: stylized Tux penguin icon -->
+  <rect x="930" y="167" width="122" height="77" rx="17" fill="#FFFFFF" stroke="#D4E1F4" stroke-width="1.8"/>
+  <!-- head and body: intentionally simplified Linux penguin symbol -->
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M981 195c-2-16 2-23 10-23s13 8 11 23c10 8 15 25 8 35l-39 0c-7-12-1-29 10-35z" fill="#1A3D69" stroke="#236CB8" stroke-width="1.4"/>
+    <ellipse cx="991" cy="210" rx="13" ry="18" fill="#F8FBFF"/>
+    <ellipse cx="984.8" cy="188" rx="2.1" ry="3" fill="#FFFFFF"/>
+    <ellipse cx="996.6" cy="188" rx="2.1" ry="3" fill="#FFFFFF"/>
+    <circle cx="985.2" cy="188.7" r="1" fill="#19365B" stroke="none"/>
+    <circle cx="996.3" cy="188.7" r="1" fill="#19365B" stroke="none"/>
+    <path d="M986 195q5-3 10 0l-5 6z" fill="#EAB85B" stroke="#D69B3C" stroke-width=".8"/>
+    <path d="M977 220l-8 9M1005 220l8 9" stroke="#236CB8" stroke-width="3.1" fill="none"/>
+    <path d="M986 228q-12 0-13 7 9 2 17-2M996 228q12 0 13 7-9 2-17-2" fill="#F1BD5D" stroke="#D8A046" stroke-width="1"/>
+  </g>
+</g>
+</svg>
