@@ -1,6 +1,6 @@
 <!-- Blue research-profile banner: edit assets/header.svg to change its content. -->
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Sangheon Lee (이상헌) — NOSLab, Dongguk University" />
+  <img src="./assets/header.png" width="50%" alt="Sangheon Lee (이상헌) — NOSLab, Dongguk University" />
 </p>
 
 <p align="center">
