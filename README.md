@@ -30,7 +30,7 @@ My research focuses on **LLM serving and inference systems**, **GPU resource sch
 | Area | Technologies |
 | --- | --- |
 | AI / ML | PyTorch, vLLM, CUDA kernels |
-| Programming | C/C++, Python, Shell |
+| Programming | C, Python, Shell |
 | Systems & Tracing | Linux Kernel, eBPF, kprobe, blktrace, Ctags/Cscope |
 | Storage | ZNS SSD, NVMeVirt, FEMU, Computational SSD |
 | File Systems | F2FS, Ext4 |
