@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tkdGJS"><img src="./assets/github.svg" alt="GitHub" height="40" /></a>&nbsp;
+  <a href="https://github.com/tkdGJS#pinned-items"><img src="./assets/github.svg" alt="GitHub" height="40" /></a>&nbsp;
   <a href="mailto:tkdgjs0213@gmail.com"><img src="./assets/email.svg" alt="Email" height="40" /></a>&nbsp;
   <a href="https://noslab.github.io/"><img src="./assets/noslab.svg" alt="NOSLab" height="40" /></a>
 </p>
